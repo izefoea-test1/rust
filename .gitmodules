@@ -1,6 +1,6 @@
 [submodule "src/doc/nomicon"]
 	path = src/doc/nomicon
-	url = https://github.com/rust-lang/nomicon.git
+	url = https://github.com/izefoea/whatever.git
 	shallow = true
 [submodule "src/tools/cargo"]
 	path = src/tools/cargo
